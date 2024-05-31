@@ -1,4 +1,4 @@
-# Python Learning Journey
+# Python Learning Journey - Day 1
 
 Welcome to my Python learning journey! In this repository, I'll be sharing my progress as I dive into the world of Python programming. Each day, I'll cover new topics, provide code examples, and share valuable insights to help fellow learners. 
 
