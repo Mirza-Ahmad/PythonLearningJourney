@@ -19,5 +19,5 @@ I'm excited to continue sharing my journey of learning Python with you. Stay tun
 # Connect with Me
 This is developed with ❤️ by **Mirza Ahmad Awais**. 
 Visit my blog on [Hashnode](https://ahmaddevpro.hashnode.dev/python-learning-journey-day-2) and 
-Connect with me on [LinkedIn](www.linkedin.com/in/mirza-ahmad-awais-aa513420a).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/mirza-ahmad-awais-aa513420a/).
 ### Happy Coding!
