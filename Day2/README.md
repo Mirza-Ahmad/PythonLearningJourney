@@ -9,7 +9,7 @@ Welcome to Day 2 of my Python learning journey! In today's session, we'll delve 
 For a detailed explanation and code examples, refer to the [Complete Article](https://hashnode.com/draft/66582a1f3315470504207b46).
 # Prerequisites
 Before proceeding with today's topics, it's recommended to have a basic understanding of Python syntax and concepts covered in Day 1
-of our Python learning journey. If you haven't already, please check out the [Day 1]() article for an introduction to Python programming.
+of our Python learning journey. If you haven't already, please check out the [Day 1](https://github.com/Mirza-Ahmad/PythonLearningJourney/tree/main/Day1) article for an introduction to Python programming.
 # Usage
 Navigate through the articles listed in the Table of Contents to explore today's topics. Each article provides detailed explanations, code examples, and practical insights to enhance your Python skills.
 # License
