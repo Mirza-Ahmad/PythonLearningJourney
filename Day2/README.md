@@ -6,7 +6,7 @@ Welcome to Day 2 of my Python learning journey! In today's session, we'll delve 
 **3. Strings in Python:** Learning about strings, their manipulation, and various string operations.<br>
 **4. Lists in Python:** Understanding lists, their creation, manipulation, and useful list operations.<br>
 
-For a detailed explanation and code examples, refer to the [Complete Article](https://hashnode.com/draft/66582a1f3315470504207b46).
+For a detailed explanation and code examples, refer to the [Complete Article](https://ahmaddevpro.hashnode.dev/python-learning-journey-day-2).
 # Prerequisites
 Before proceeding with today's topics, it's recommended to have a basic understanding of Python syntax and concepts covered in Day 1
 of our Python learning journey. If you haven't already, please check out the [Day 1](https://github.com/Mirza-Ahmad/PythonLearningJourney/tree/main/Day1) article for an introduction to Python programming.
@@ -18,6 +18,6 @@ This project is licensed under the Apache License. See the [LICENSE](https://git
 I'm excited to continue sharing my journey of learning Python with you. Stay tuned for daily updates and in-depth articles covering various Python topics.
 # Connect with Me
 This is developed with ❤️ by **Mirza Ahmad Awais**. 
-Visit my blog on [Hashnode](https://hashnode.com/draft/66582a1f3315470504207b46) and 
+Visit my blog on [Hashnode](https://ahmaddevpro.hashnode.dev/python-learning-journey-day-2) and 
 Connect with me on [LinkedIn](www.linkedin.com/in/mirza-ahmad-awais-aa513420a).
 ### Happy Coding!
