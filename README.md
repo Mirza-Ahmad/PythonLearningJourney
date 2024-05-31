@@ -40,5 +40,5 @@ I am sharing my journey of learning Python. Follow along for daily updates and i
 
 ## Connect with Me
 - Blog on Hashnode [Day1](https://hashnode.com/edit/clwqapdk1001t08l09odo1c6j) and [Day2](https://hashnode.com/edit/clwuxx8sy00010ajl92g0hjpj).
-- Connect with me on [LinkedIn](www.linkedin.com/in/mirza-ahmad-awais-aa513420a)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/mirza-ahmad-awais-aa513420a/)
 Developed with ❤️ by Mirza Ahmad Awais.
