@@ -17,5 +17,5 @@ I am sharing my journey of learning Python. Follow along for daily updates and i
 
 ## Connect with Me
 This is developed with ❤️ by **Mirza Ahmad Awais**. 
-Visit my blog on [Hashnode](/) and 
-Connect with me on [LinkedIn](https://ahmaddevpro.hashnode.dev/python-learning-journey).
+Visit my blog on [Hashnode](https://ahmaddevpro.hashnode.dev/python-learning-journey-day-1) and 
+Connect with me on [LinkedIn](https://www.linkedin.com/in/mirza-ahmad-awais-aa513420a/).
